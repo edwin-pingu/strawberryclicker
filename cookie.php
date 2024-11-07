@@ -5,7 +5,7 @@
 <head>
     <title>Strawberry Clicker</title>
     <link href=cookie.css rel="stylesheet" type="text/css">
-</head>
+</head
 <body>
     <h1>Strawberry Clicker</h1>
     <div id="cookie"></div>

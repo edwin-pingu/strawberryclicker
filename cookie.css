@@ -23,7 +23,7 @@ h1 {
 #cookie {
     width: 200px;
     height: 200px;
-    background-image: url('/img/aardbeiduimpje.jpg');
+    background-image: url('img/aardbeiduimpje.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     border-radius: 50%;

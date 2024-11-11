@@ -113,7 +113,7 @@
             this.upgradeCount = 0;
             this.autoClickerCount = 0;
             this.autoClickerActive = false;
-            clearInterval(this.autoClickerInterval```javascript
+            clearInterval(this.autoClickerInterval);
                 this.updateUI();
                 this.saveState();
             }
